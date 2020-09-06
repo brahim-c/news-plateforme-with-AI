@@ -1,0 +1,47 @@
+.instruction {
+  text-align: center;
+}
+.instruction img {
+  width: 21%;
+  height: auto;
+}
+
+.uui {
+  width: 100vw;
+  height: auto;
+  margin-top: 0;
+  padding-top: 0;
+}
+h1 {
+  margin-top: 60px;
+  font: 550 2.25rem/2.75rem "Raleway", sans-serif;
+  text-align: center;
+  color: rgb(22, 22, 22);
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+h3 {
+  margin-top: 3px;
+  font: 500 2.25rem/2.75rem "Raleway", sans-serif;
+  text-align: center;
+  color: rgb(80, 80, 80);
+}
+.containerr {
+  text-align: center;
+  display: inline;
+}
+.goBack {
+  margin-top: 20px;
+  margin-right: 200px;
+  margin-bottom: 20px;
+  margin-left: 400px;
+  width: 300px;
+  height: auto;
+}
+.openArt {
+  margin-top: 20px;
+  margin-right: 100px;
+  margin-bottom: 20px;
+  width: 300px;
+  height: auto;
+}
