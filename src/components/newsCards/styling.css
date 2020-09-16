@@ -5,9 +5,12 @@
   width: 21%;
   height: auto;
 }
+.home {
+  max-width: 100vw;
+}
 
 .uui {
-  width: 100vw;
+  width: 100%;
   height: auto;
   margin-top: 0;
   padding-top: 0;

@@ -17,7 +17,7 @@ const NewsCards = ({ articles, activeArticle }) => {
 
   if (!articles.length) {
     return (
-      <div>
+      <div className="home">
         <img className="uui" src={Uip} alt="banner" />
         <h1>The Main Instructions </h1>
         <h3>to get started</h3>
